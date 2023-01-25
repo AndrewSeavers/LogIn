@@ -1,0 +1,32 @@
+﻿body
+{
+    background: #808080;
+    font-family: 'Lucida Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.login{
+    text-align: center;
+    padding: 8em;
+    border: solid 2px black;
+    border-radius: 5px;
+}
+
+input{
+    margin: 2em;
+}
+
+button{
+    background-color: #212121;
+    margin: 2em;
+    color: white;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #808080;
+}
+
+.smallText{
+    font-size: 3px;
+}
